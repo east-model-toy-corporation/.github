@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ORG_SYNC_TOKEN }}
           ORG_NAME: east-model-toy-corporation
-          P028_REPO: p028-Automation-Intelligence-Bureau
+          P028_REPO: p000-Automation-Intelligence-Bureau
         run: python scripts/sync_org.py
 
       - name: Commit changes
