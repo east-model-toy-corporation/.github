@@ -1,0 +1,37 @@
+name: Sync Org Navigation
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 每天 01:00 UTC = 台灣時間 09:00
+  workflow_dispatch:        # 手動觸發
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ORG_SYNC_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install PyGithub PyYAML
+
+      - name: Run sync script
+        env:
+          GITHUB_TOKEN: ${{ secrets.ORG_SYNC_TOKEN }}
+          ORG_NAME: east-model-toy-corporation
+          P028_REPO: p028-Automation-Intelligence-Bureau
+        run: python scripts/sync_org.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: auto-sync org navigation [skip ci]"
+          git push
