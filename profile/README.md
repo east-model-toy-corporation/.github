@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-06-11 05:23 UTC（每日自動同步）  
+> 更新時間：2026-06-12 05:26 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -54,13 +54,13 @@
 
 | REPO | 說明 | 部門 | 狀態 | Wiki |
 |------|------|------|------|------|
-| [p18-redirect-to-91app](https://github.com/east-model-toy-corporation/p18-redirect-to-91app) | 18-商品內頁導流91APP連結 | — | ❓ | [📄](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau/blob/main/03-系統文檔/p018-商品內頁導流.md) |
+| [p18-redirect-to-91app](https://github.com/east-model-toy-corporation/p18-redirect-to-91app) | 18-商品內頁導流91APP連結 | — | ❓ | — |
 
 ## 📦 p21
 
 | REPO | 說明 | 部門 | 狀態 | Wiki |
 |------|------|------|------|------|
-| [p21-app91-member-automation](https://github.com/east-model-toy-corporation/p21-app91-member-automation) | 開發一支基於 Python 的自動化程式 (RPA)，執行每日 91APP 後台會員資料匯出，並完成資料轉檔、雲端備份以及回傳更新作業。 | — | ❓ | [📄](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau/blob/main/03-系統文檔/p021-全自動會員資料轉檔與建檔.md) |
+| [p21-app91-member-automation](https://github.com/east-model-toy-corporation/p21-app91-member-automation) | 開發一支基於 Python 的自動化程式 (RPA)，執行每日 91APP 後台會員資料匯出，並完成資料轉檔、雲端備份以及回傳更新作業。 | — | ❓ | — |
 | [p21-app91-order-automation](https://github.com/east-model-toy-corporation/p21-app91-order-automation) | 全自動下載91APP訂單上傳至資料庫 | — | ❓ | — |
 
 ## ❓ 未分類
@@ -69,7 +69,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-10 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-11 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [M01-RefundAdmin](https://github.com/east-model-toy-corporation/M01-RefundAdmin) | 2026-06-04 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-04-20 |
