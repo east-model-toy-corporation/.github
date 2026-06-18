@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-06-17 06:03 UTC（每日自動同步）  
+> 更新時間：2026-06-18 05:30 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -24,6 +24,12 @@
 |------|------|------|------|------|
 | [p014-elt-query-api](https://github.com/east-model-toy-corporation/p014-elt-query-api) | Google Sheet 去資料庫撈資料、回寫 | — | ❓ | — |
 | [p014-gas-db-scripts](https://github.com/east-model-toy-corporation/p014-gas-db-scripts) | 資料庫互動、寫入相關 google app script | — | ❓ | — |
+
+## 📦 p021 · 全自動會員資料轉檔與建檔
+
+| REPO | 說明 | 部門 | 狀態 | Wiki |
+|------|------|------|------|------|
+| [p021-ehobby-ec-auto](https://github.com/east-model-toy-corporation/p021-ehobby-ec-auto) | 關於電商平台的會員、訂單資料自動下載 | — | ❓ | — |
 
 ## 📦 p030
 
@@ -69,9 +75,9 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-16 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-17 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
-| [C01-RefundAdmin](https://github.com/east-model-toy-corporation/C01-RefundAdmin) | 2026-06-04 |
+| [C01-RefundAdmin](https://github.com/east-model-toy-corporation/C01-RefundAdmin) | 2026-06-17 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-04-20 |
 | [Order-Database-WACA](https://github.com/east-model-toy-corporation/Order-Database-WACA) | 2026-06-09 |
 | [Order-oversize-ehobby](https://github.com/east-model-toy-corporation/Order-oversize-ehobby) | 2026-05-18 |
