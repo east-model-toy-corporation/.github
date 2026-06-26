@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-06-25 04:57 UTC（每日自動同步）  
+> 更新時間：2026-06-26 05:04 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -75,11 +75,11 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-24 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-25 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-04-20 |
 | [Order-Database-WACA](https://github.com/east-model-toy-corporation/Order-Database-WACA) | 2026-06-09 |
-| [Order-oversize-ehobby](https://github.com/east-model-toy-corporation/Order-oversize-ehobby) | 2026-05-18 |
+| [Order-oversize-ehobby](https://github.com/east-model-toy-corporation/Order-oversize-ehobby) | 2026-06-26 |
 | [Order-oversize-garage](https://github.com/east-model-toy-corporation/Order-oversize-garage) | 2026-05-19 |
 | [Search-WACA-Orders-Excel](https://github.com/east-model-toy-corporation/Search-WACA-Orders-Excel) | 2026-06-24 |
 | [UL-Evolution-Version](https://github.com/east-model-toy-corporation/UL-Evolution-Version) | 2026-06-23 |
@@ -89,4 +89,4 @@
 | [ec-data-ssot](https://github.com/east-model-toy-corporation/ec-data-ssot) | 2026-04-27 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
 | [store-order-consent](https://github.com/east-model-toy-corporation/store-order-consent) | 2026-06-04 |
-| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-06-02 |
+| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-06-25 |
