@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-06-29 05:24 UTC（每日自動同步）  
+> 更新時間：2026-06-30 04:57 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -36,6 +36,12 @@
 | REPO | 說明 | 部門 | 狀態 | Wiki |
 |------|------|------|------|------|
 | [p030-webtools-auto-pick](https://github.com/east-model-toy-corporation/p030-webtools-auto-pick) | WebTools (1)第一支每日依照年份順序匹配訂單; (2)第二支選昨日到今日匹配的蝦皮訂單取消撿貨返回 | — | ❓ | — |
+
+## 📦 p031
+
+| REPO | 說明 | 部門 | 狀態 | Wiki |
+|------|------|------|------|------|
+| [p031-beyblade-counters](https://github.com/east-model-toy-corporation/p031-beyblade-counters) | 戰鬥陀螺專案配貨控量 | — | ❓ | — |
 
 ## 📦 p07
 
@@ -75,10 +81,11 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-28 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-06-29 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
+| [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-06-30 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-06-26 |
-| [Order-Database-PayNow](https://github.com/east-model-toy-corporation/Order-Database-PayNow) | 2026-06-26 |
+| [Order-Database-PayNow](https://github.com/east-model-toy-corporation/Order-Database-PayNow) | 2026-06-29 |
 | [Order-Database-WACA](https://github.com/east-model-toy-corporation/Order-Database-WACA) | 2026-06-26 |
 | [Order-oversize-ehobby](https://github.com/east-model-toy-corporation/Order-oversize-ehobby) | 2026-06-26 |
 | [Order-oversize-garage](https://github.com/east-model-toy-corporation/Order-oversize-garage) | 2026-05-19 |
@@ -86,7 +93,7 @@
 | [UL-Evolution-Version](https://github.com/east-model-toy-corporation/UL-Evolution-Version) | 2026-06-23 |
 | [c01-RefundAdmin](https://github.com/east-model-toy-corporation/c01-RefundAdmin) | 2026-06-22 |
 | [c02-paynow-daily](https://github.com/east-model-toy-corporation/c02-paynow-daily) | 2026-06-24 |
-| [c03-waca-cancel-orders](https://github.com/east-model-toy-corporation/c03-waca-cancel-orders) | 2026-06-28 |
+| [c03-waca-cancel-orders](https://github.com/east-model-toy-corporation/c03-waca-cancel-orders) | 2026-06-30 |
 | [database-elt](https://github.com/east-model-toy-corporation/database-elt) | 2026-06-24 |
 | [ec-data-ssot](https://github.com/east-model-toy-corporation/ec-data-ssot) | 2026-04-27 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
