@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-07-31 04:17 UTC（每日自動同步）  
+> 更新時間：2026-08-01 04:16 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -37,6 +37,7 @@
 | REPO | 說明 | 部門 | 狀態 | Wiki |
 |------|------|------|------|------|
 | [p028-ehobby-wiki](https://github.com/east-model-toy-corporation/p028-ehobby-wiki) | Karpathy 知識庫wiki | — | ❓ | — |
+| [p028-ehobby-wiki-vault](https://github.com/east-model-toy-corporation/p028-ehobby-wiki-vault) | 知識庫本庫(唯讀) | — | ❓ | — |
 
 ## 📦 p030
 
@@ -88,7 +89,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-07-30 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-07-31 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-07-07 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-06-26 |
