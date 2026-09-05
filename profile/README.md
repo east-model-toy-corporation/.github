@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-09-04 05:17 UTC（每日自動同步）  
+> 更新時間：2026-09-05 05:06 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -91,7 +91,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-03 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-04 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-07-07 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-08-13 |
@@ -103,7 +103,7 @@
 | [UL-Evolution-Version](https://github.com/east-model-toy-corporation/UL-Evolution-Version) | 2026-08-20 |
 | [c01-RefundAdmin](https://github.com/east-model-toy-corporation/c01-RefundAdmin) | 2026-08-05 |
 | [c02-paynow-daily](https://github.com/east-model-toy-corporation/c02-paynow-daily) | 2026-06-24 |
-| [c03-waca-cancel-orders](https://github.com/east-model-toy-corporation/c03-waca-cancel-orders) | 2026-06-30 |
+| [c03-cancel-orders](https://github.com/east-model-toy-corporation/c03-cancel-orders) | 2026-09-04 |
 | [c04-ServiceMail_AutoReply](https://github.com/east-model-toy-corporation/c04-ServiceMail_AutoReply) | 2026-07-18 |
 | [c05-Order-Shipment-Notice](https://github.com/east-model-toy-corporation/c05-Order-Shipment-Notice) | 2026-08-20 |
 | [database-elt](https://github.com/east-model-toy-corporation/database-elt) | 2026-08-21 |
