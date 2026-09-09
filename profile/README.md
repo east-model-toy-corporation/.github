@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-09-08 05:29 UTC（每日自動同步）  
+> 更新時間：2026-09-09 05:36 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -91,9 +91,9 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-07 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-08 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
-| [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-07-07 |
+| [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-09-08 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-08-13 |
 | [Order-Database-PayNow](https://github.com/east-model-toy-corporation/Order-Database-PayNow) | 2026-06-29 |
 | [Order-Database-WACA](https://github.com/east-model-toy-corporation/Order-Database-WACA) | 2026-08-13 |
@@ -109,7 +109,7 @@
 | [database-elt](https://github.com/east-model-toy-corporation/database-elt) | 2026-08-21 |
 | [ec-data-ssot](https://github.com/east-model-toy-corporation/ec-data-ssot) | 2026-04-27 |
 | [ehobby-oms](https://github.com/east-model-toy-corporation/ehobby-oms) | 2026-08-17 |
-| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-09-07 |
+| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-09-08 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
 | [store-order-consent](https://github.com/east-model-toy-corporation/store-order-consent) | 2026-06-04 |
-| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-08-31 |
+| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-09-09 |
