@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-09-21 05:43 UTC（每日自動同步）  
+> 更新時間：2026-09-22 05:40 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -40,6 +40,13 @@
 |------|------|------|------|------|
 | [p028-ehobby-wiki](https://github.com/east-model-toy-corporation/p028-ehobby-wiki) | Karpathy 知識庫wiki | — | ❓ | — |
 | [p028-ehobby-wiki-vault](https://github.com/east-model-toy-corporation/p028-ehobby-wiki-vault) | 知識庫本庫(唯讀) | — | ❓ | — |
+
+## 📦 p029
+
+| REPO | 說明 | 部門 | 狀態 | Wiki |
+|------|------|------|------|------|
+| [p029-ticket-bot](https://github.com/east-model-toy-corporation/p029-ticket-bot) | 開票機器人 | — | ❓ | — |
+| [p029-wishlist-inbox](https://github.com/east-model-toy-corporation/p029-wishlist-inbox) | 開戰場 | — | ❓ | — |
 
 ## 📦 p030
 
@@ -84,9 +91,9 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-20 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-21 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
-| [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-09-17 |
+| [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-09-22 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-08-13 |
 | [Order-Database-PayNow](https://github.com/east-model-toy-corporation/Order-Database-PayNow) | 2026-06-29 |
 | [Order-Database-WACA](https://github.com/east-model-toy-corporation/Order-Database-WACA) | 2026-08-13 |
@@ -99,11 +106,11 @@
 | [c03-cancel-orders](https://github.com/east-model-toy-corporation/c03-cancel-orders) | 2026-09-18 |
 | [c04-ServiceMail_AutoReply](https://github.com/east-model-toy-corporation/c04-ServiceMail_AutoReply) | 2026-07-18 |
 | [c05-Order-Shipment-Notice](https://github.com/east-model-toy-corporation/c05-Order-Shipment-Notice) | 2026-08-20 |
-| [c06-OrderPreCheck](https://github.com/east-model-toy-corporation/c06-OrderPreCheck) | 2026-09-18 |
+| [c06-OrderPreCheck](https://github.com/east-model-toy-corporation/c06-OrderPreCheck) | 2026-09-21 |
 | [database-elt](https://github.com/east-model-toy-corporation/database-elt) | 2026-09-18 |
 | [ec-data-ssot](https://github.com/east-model-toy-corporation/ec-data-ssot) | 2026-04-27 |
 | [ehobby-oms](https://github.com/east-model-toy-corporation/ehobby-oms) | 2026-08-17 |
-| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-09-18 |
+| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-09-21 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
 | [store-order-consent](https://github.com/east-model-toy-corporation/store-order-consent) | 2026-06-04 |
-| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-09-21 |
+| [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-09-22 |
