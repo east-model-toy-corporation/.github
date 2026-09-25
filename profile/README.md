@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-09-24 05:41 UTC（每日自動同步）  
+> 更新時間：2026-09-25 05:39 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -18,7 +18,7 @@
 |------|------|------|------|------|
 | [p011-batch-product-editor](https://github.com/east-model-toy-corporation/p011-batch-product-editor) | 批次上架編輯器 | — | ❓ | — |
 | [p011-super_crawler](https://github.com/east-model-toy-corporation/p011-super_crawler) | — | — | ❓ | — |
-| [p011-waca-post-adjuster](https://github.com/east-model-toy-corporation/p011-waca-post-adjuster) | WACA 上架後快速修改商店頁設定 | — | ❓ | — |
+| [p011-waca-admin-product-settings-updater](https://github.com/east-model-toy-corporation/p011-waca-admin-product-settings-updater) | WACA 上架後快速修改商店頁設定 | — | ❓ | — |
 
 ## 📦 p014 · 91APP-IP分類同步GAS
 
@@ -91,7 +91,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-23 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-09-24 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-09-22 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-08-13 |
@@ -100,10 +100,10 @@
 | [Order-oversize-ehobby](https://github.com/east-model-toy-corporation/Order-oversize-ehobby) | 2026-08-14 |
 | [Order-oversize-garage](https://github.com/east-model-toy-corporation/Order-oversize-garage) | 2026-05-19 |
 | [Search-WACA-Orders-Excel](https://github.com/east-model-toy-corporation/Search-WACA-Orders-Excel) | 2026-08-19 |
-| [UL-Evolution-Version](https://github.com/east-model-toy-corporation/UL-Evolution-Version) | 2026-09-23 |
+| [UL-Evolution-Version](https://github.com/east-model-toy-corporation/UL-Evolution-Version) | 2026-09-24 |
 | [c01-RefundAdmin](https://github.com/east-model-toy-corporation/c01-RefundAdmin) | 2026-08-05 |
 | [c02-paynow-daily](https://github.com/east-model-toy-corporation/c02-paynow-daily) | 2026-06-24 |
-| [c03-cancel-orders](https://github.com/east-model-toy-corporation/c03-cancel-orders) | 2026-09-23 |
+| [c03-cancel-orders](https://github.com/east-model-toy-corporation/c03-cancel-orders) | 2026-09-24 |
 | [c04-ServiceMail_AutoReply](https://github.com/east-model-toy-corporation/c04-ServiceMail_AutoReply) | 2026-07-18 |
 | [c05-Order-Shipment-Notice](https://github.com/east-model-toy-corporation/c05-Order-Shipment-Notice) | 2026-08-20 |
 | [c06-OrderPreCheck](https://github.com/east-model-toy-corporation/c06-OrderPreCheck) | 2026-09-21 |
