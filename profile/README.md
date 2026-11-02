@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-11-01 07:01 UTC（每日自動同步）  
+> 更新時間：2026-11-02 07:00 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -17,6 +17,7 @@
 | REPO | 說明 | 部門 | 狀態 | Wiki |
 |------|------|------|------|------|
 | [p011-batch-product-editor](https://github.com/east-model-toy-corporation/p011-batch-product-editor) | 批次上架編輯器 | — | ❓ | — |
+| [p011-buyer-gmail-filter](https://github.com/east-model-toy-corporation/p011-buyer-gmail-filter) | 抓單、到貨通知、請款單 | — | ❓ | — |
 | [p011-super_crawler](https://github.com/east-model-toy-corporation/p011-super_crawler) | — | — | ❓ | — |
 | [p011-waca-admin-product-settings-updater](https://github.com/east-model-toy-corporation/p011-waca-admin-product-settings-updater) | WACA 上架後快速修改商店頁設定 | — | ❓ | — |
 
@@ -97,7 +98,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-10-31 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-11-01 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-10-28 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-08-13 |
@@ -117,7 +118,7 @@
 | [ec-data-ssot](https://github.com/east-model-toy-corporation/ec-data-ssot) | 2026-04-27 |
 | [ehobby-odoo-19](https://github.com/east-model-toy-corporation/ehobby-odoo-19) | 2026-10-30 |
 | [ehobby-oms](https://github.com/east-model-toy-corporation/ehobby-oms) | 2026-08-17 |
-| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-10-30 |
+| [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-11-02 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
 | [store-order-consent](https://github.com/east-model-toy-corporation/store-order-consent) | 2026-06-04 |
 | [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-10-22 |
