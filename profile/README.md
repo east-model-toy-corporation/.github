@@ -1,7 +1,7 @@
 # 🏭 East Model Toy Corporation
 
 > 找到你要的工具，避免重複造輪子。  
-> 更新時間：2026-11-26 09:03 UTC（每日自動同步）  
+> 更新時間：2026-11-27 09:19 UTC（每日自動同步）  
 > 📚 [完整知識庫 →](https://github.com/east-model-toy-corporation/p000-Automation-Intelligence-Bureau)
 
 ---
@@ -98,7 +98,7 @@
 
 | REPO | 最後推送 |
 |------|----------|
-| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-11-25 |
+| [.github](https://github.com/east-model-toy-corporation/.github) | 2026-11-26 |
 | [91appmenber](https://github.com/east-model-toy-corporation/91appmenber) | 2026-04-20 |
 | [Order-Cancellation](https://github.com/east-model-toy-corporation/Order-Cancellation) | 2026-11-19 |
 | [Order-Database-91APP](https://github.com/east-model-toy-corporation/Order-Database-91APP) | 2026-11-20 |
@@ -121,5 +121,6 @@
 | [ehobby-wms-3pl](https://github.com/east-model-toy-corporation/ehobby-wms-3pl) | 2026-11-26 |
 | [inventory-scan](https://github.com/east-model-toy-corporation/inventory-scan) | 2026-11-25 |
 | [line-Information-transformation-engine](https://github.com/east-model-toy-corporation/line-Information-transformation-engine) | 2026-04-14 |
+| [m01-91APP-Personalized-Push](https://github.com/east-model-toy-corporation/m01-91APP-Personalized-Push) | 2026-11-26 |
 | [store-order-consent](https://github.com/east-model-toy-corporation/store-order-consent) | 2026-06-04 |
 | [vendor_order_parser](https://github.com/east-model-toy-corporation/vendor_order_parser) | 2026-11-26 |
